@@ -1,5 +1,5 @@
 # **RFM ANALYSIS** 
-***>>>For further details, please refer to RFM_Analysis.ipynb <<<***
+***>>> For further details, please refer to RFM_Analysis.ipynb <<<***
 ## **1. Goal**
 To segment customers based on their purchasing behavior using the RFM framework and develop data-driven, actionable marketing strategies for each customer segment.
 
